@@ -1,5 +1,4 @@
-import React from "react";
-import { Component } from "react/cjs/react.development";
+import React, { Component } from "react";
 import CardList from "../components/CardList";
 import SearchBox from "../components/SearchBox";
 import "./App.css";
